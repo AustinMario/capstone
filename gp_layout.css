@@ -1,22 +1,6 @@
 @charset "utf-8";
 
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 5
-   Case Problem 1
-   
-   Author:   Marius Austinskas
-   Date:     6/9/2020  
-   
-   Filename: gp_layout.css
 
-   This file contains the layout styles and media
-   queries used with sample pages from the Golden
-   Pulps website.
-
-*/
-
-/* Import Basic Design Styles Used on All Screens */
 
 @import url("gp_designs.css");
 
@@ -90,3 +74,4 @@ img.size3 {
 img.size4 {
    width:30%;
 }
+
